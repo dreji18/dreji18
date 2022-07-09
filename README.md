@@ -12,7 +12,7 @@ dreji18/dreji18 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<br />
 
 ### Github Stats:
 
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="dreji18 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dreji18 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
-
+<br />
 
 
 [pypi]: https://pypi.org/manage/projects/
