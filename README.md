@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=dreji18)
 
 
 [pypi]: https://pypi.org/manage/projects/
