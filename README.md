@@ -13,6 +13,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+### Github Stats:
+
+<img align="left" alt="dreji18's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dreji18&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+
+<br />
+
 ### My Repositories:
 
 [<img align="left" alt="dreji18 | Pypi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pypi.svg" />][pypi]
@@ -27,13 +34,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="dreji18 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dreji18 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="dreji18 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-
-<br />
-
-### Github Stats:
-
-<img align="left" alt="dreji18's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dreji18&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
-
 
 
 
