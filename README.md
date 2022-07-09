@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="dreji18 | Huggingface" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][huggingface]
 
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="https://github.com/dreji18" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
