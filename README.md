@@ -12,6 +12,12 @@ dreji18/dreji18 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+
+### My Repositories:
+
+[<img align="left" alt="dreji18 | Pypi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pypi.svg" />][pypi]
+[<img align="left" alt="dreji18 | Huggingface" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][huggingface]
+
 ### Connect with me:
 
 [<img align="left" alt="https://github.com/dreji18" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
@@ -26,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
+[pypi]: https://pypi.org/manage/projects/
+[huggingface]: https://huggingface.co/d4data
 [youtube]: https://www.youtube.com/channel/UCgOwsx5injeaB_TKGsVD5GQ
 [twitter]: https://twitter.com/dreji18?t=AkmJ0mf0yjybn-0Yon3BjQ&s=09
 [instagram]: https://www.instagram.com/deepak_john_reji/
