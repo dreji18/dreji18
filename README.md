@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Github Stats:
 
-[<img align="left" alt="dreji18's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dreji18&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />]
+<img align="left" alt="dreji18's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dreji18&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
 <br />
 
