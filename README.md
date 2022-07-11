@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[pypi]: https://pypi.org/manage/projects/
+[pypi]: https://pypi.org/user/dreji18/
 [huggingface]: https://huggingface.co/d4data
 [youtube]: https://www.youtube.com/channel/UCgOwsx5injeaB_TKGsVD5GQ
 [twitter]: https://twitter.com/dreji18?t=AkmJ0mf0yjybn-0Yon3BjQ&s=09
