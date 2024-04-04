@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Deepak John Reji
 
-- 👀 I’m interested in NLP and working with Environment domain
-- 🌱 I’m currently learning topics in Environmental Sustainability
-- 💞️ I'm an open-source contributor and I share my models in Huggingface and PyPI repository. Recently I have been researching on the topic "Bias & Fairness in AI Models" & "Environmental Remediation"
-- 🎁 Download my python packages and give me feedback
-- 🎥 Watch my youtube channel to know more about me
+- 👀 I’m interested in NLP and working with Social and Environment domain
+- 🌱 I’m currently learning topics in Sociology and Environmental Sustainability
+- 💞️ I'm an open-source contributor and I share my models in the Huggingface and PyPI repository. Recently I have been researching the topic "Immigration & Integration", "Bias & Fairness in AI Models" & "Environmental Remediation"
+- 🎁 Download my Python packages and give me feedback
+- 🎥 Watch my YouTube channel to learn more about me
 - 📫 Reach out to me via Linkedin
 
 <!---
